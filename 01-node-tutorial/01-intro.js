@@ -7,3 +7,5 @@ if (amount < 10) {
 }
 
 console.log(`hey it's my first node app!!!`)
+
+//to access code in terminal -> node filename.js
