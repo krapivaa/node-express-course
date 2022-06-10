@@ -1,3 +1,4 @@
+// os build in modeule  https://nodejs.dev/learn/the-nodejs-os-module
 const os = require('os')
 
 // info about current user
