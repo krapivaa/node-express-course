@@ -1,18 +1,17 @@
 {
-  "name": "tutorial",
+  "name": "02-answers",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.17.20"
-  },
   "devDependencies": {
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.18"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
   }
 }

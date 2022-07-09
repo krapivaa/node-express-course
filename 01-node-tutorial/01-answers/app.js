@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=Oe421EPjeBE&t=6357s
+
 //npm - global comand, comes with node
 //npm --version
 
