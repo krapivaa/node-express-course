@@ -1,0 +1,12 @@
+MongoDB
+Unlike traditional database with rows and columns in no relational database (MongoDB) we can simply store everything as JSON - does not care how data relates to each other
+instead of tables - collections - represents group of items
+instead of rows  - documents - represent single item
+
+Document is a set of key-value pairs
+
+
+https://mongoosejs.com/
+npm install mongoose
+
+https://www.youtube.com/watch?v=qwfE7fSVaZM&t=1s
